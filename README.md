@@ -4,6 +4,8 @@ I am a Full Stack Developer currently enrolled at Epicodus
 
 ## Technologies & Tools
 
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=26968d)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=26968d)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=26968d)
 ![](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=26968d)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=26968d)
@@ -19,6 +21,7 @@ I am a Full Stack Developer currently enrolled at Epicodus
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shevlin&theme=tokyonight&show_icons=true"/>
 </a>
 
+[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=a-shevlin&bg_color=1a1b27&color=628fda&line=2ebcad&point=37bcad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
