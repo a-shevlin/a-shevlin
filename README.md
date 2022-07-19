@@ -15,10 +15,10 @@ I am a Full Stack Developer currently enrolled at Epicodus
 ## GitHub Stats
 
 <a href="https://github.com/a-shevlin/a-shevlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&hide_border=true&langs_count=3" />
 </a>
 <a href="https://github.com/a-shevlin/a-shevlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shevlin&theme=tokyonight&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shevlin&theme=tokyonight&hide_border=true&show_icons=true"/>
 </a>
 
 [![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=a-shevlin&bg_color=1a1b27&color=628fda&line=2ebcad&point=37bcad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
