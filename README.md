@@ -24,8 +24,6 @@ I am a Full Stack Developer currently enrolled at Epicodus
   <a href="https://github.com/a-shevlin/a-shevlin">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shevlin&theme=tokyonight&hide_border=true&show_icons=true"/>
   </a>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a-shevlin&theme=tokyonight&hide_border=true&ring=29A8A4)](https://git.io/streak-stats)
 </div>
 
 <p></p>
