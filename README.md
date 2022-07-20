@@ -2,16 +2,14 @@
 
 I am a Full Stack Developer currently enrolled at Epicodus
 
-## Technologies & Tools
-
 <div align="center">
   
-  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=26968d)
-  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=26968d)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=26968d)
-  ![](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=26968d)
-  ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=26968d)
-  ![](https://img.shields.io/badge/Library-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=26968d)
+  ![](https://img.shields.io/badge/-HTML-F0F6FC?style=for-the-badge&logo=html5&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-CSS-F0F6FC?style=for-the-badge&logo=css3&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-JavaScript-F0F6FC?style=for-the-badge&logo=javascript&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-jQuery-F0F6FC?style=for-the-badge&logo=jquery&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-CSharp-F0F6FC?style=for-the-badge&logo=csharp&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-.NET-F0F6FC?style=for-the-badge&logo=dotnet&logoColor=F0F6FC&labelColor=26968d)
 </div>
 
 ## GitHub Stats
