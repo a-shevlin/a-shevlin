@@ -18,7 +18,7 @@ I am a Full Stack Developer currently enrolled at Epicodus
 
 <div align="center">
   <a href="https://github.com/a-shevlin/a-shevlin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&layout=compact&hide_border=true&langs_count=5" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&layout=compact&hide_border=true&langs_count=4" />
   </a>
   
   <a href="https://github.com/a-shevlin/a-shevlin">
