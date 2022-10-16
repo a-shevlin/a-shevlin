@@ -1,17 +1,23 @@
-# Hi there, I'm Alex!
+<h2>Hi, I'm Alex</h2>
+<p>I am a Full Stack developer currently working on making scalable mobile forward applications using many of these programs, languages, and libraries.</p>
 
-I am a Full Stack Developer currently enrolled at Epicodus
 
 <div align="center">
   
-  ![](https://img.shields.io/badge/-GIT-F0F6FC?style=for-the-badge&logo=git&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-HTML-F0F6FC?style=for-the-badge&logo=html5&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-CSS-F0F6FC?style=for-the-badge&logo=css3&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-JavaScript-F0F6FC?style=for-the-badge&logo=javascript&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-jQuery-F0F6FC?style=for-the-badge&logo=jquery&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-CSharp-F0F6FC?style=for-the-badge&logo=csharp&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-.NET-F0F6FC?style=for-the-badge&logo=dotnet&logoColor=F0F6FC&labelColor=26968d)
-  ![](https://img.shields.io/badge/-React-F0F6FC?style=for-the-badge&logo=react&logoColor=F0F6FC&labelColor=26968d)
+  ![](https://img.shields.io/badge/-GIT-282f36?style=for-the-badge&logo=git&logoColorF1502f&labelColor=282f36)
+  ![](https://img.shields.io/badge/-HTML-282f36?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=282f36)
+  ![](https://img.shields.io/badge/-CSS-282f36?style=for-the-badge&logo=css3&logoColor=3C99DC&labelColor=282f36)
+  ![](https://img.shields.io/badge/-JavaScript-282f36?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282f36)
+  ![](https://img.shields.io/badge/-jQuery-282f36?style=for-the-badge&logo=jquery&logoColor=FAA523&labelColor=282f36)
+  ![](https://img.shields.io/badge/-React-282f36?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282f36)
+  ![](https://img.shields.io/badge/-firebase-282f36?style=for-the-badge&logo=firebase&logoColor=FFA611&labelColor=282f36)
+  ![](https://img.shields.io/badge/-mongodb-282f36?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=282f36)
+  ![](https://img.shields.io/badge/-C%23-282f36?style=for-the-badge&logo=csharp&logoColor=9b4993&labelColor=282f36)
+  ![](https://img.shields.io/badge/-.NET-282f36?style=for-the-badge&logo=dotnet&logoColor=512bd4&labelColor=282f36)
+  ![](https://img.shields.io/badge/-mysql-282f36?style=for-the-badge&logo=mysql&logoColor=f29111&labelColor=282f36)
+  ![](https://img.shields.io/badge/-Python-282f36?style=for-the-badge&logo=python&logoColor=4B8BBE&labelColor=282f36)
+  
+  
 </div>
 
 ## GitHub Stats
