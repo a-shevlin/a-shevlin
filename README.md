@@ -38,7 +38,8 @@
 
 <div align="center">
   
-  [![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a-shevlin&bg_color=1a1b27&color=628fda&line=2ebcad&point=37bcad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a-shevlin&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
   
 <!--
