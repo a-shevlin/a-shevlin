@@ -1,5 +1,5 @@
 <h2>Hi, I'm Alex</h2>
-<p>I am a Full Stack developer currently working on making scalable mobile forward applications using many of these programs, languages, and libraries.</p>
+<p>I am a Software Engineer specializing in APIs and PWA-oriented applications.</p>
 
 
 <div align="center">
@@ -9,7 +9,6 @@
   ![](https://img.shields.io/badge/-CSS-282f36?style=for-the-badge&logo=css3&logoColor=3C99DC&labelColor=282f36)
   ![](https://img.shields.io/badge/-Sass-282f36?style=for-the-badge&logo=sass&logoColor=CD6799&labelColor=282f36)
   ![](https://img.shields.io/badge/-JavaScript-282f36?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282f36)
-  ![](https://img.shields.io/badge/-jQuery-282f36?style=for-the-badge&logo=jquery&logoColor=FAA523&labelColor=282f36)
   ![](https://img.shields.io/badge/-React-282f36?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282f36)
   ![](https://img.shields.io/badge/-firebase-282f36?style=for-the-badge&logo=firebase&logoColor=FFA611&labelColor=282f36)
   ![](https://img.shields.io/badge/-mongodb-282f36?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=282f36)
