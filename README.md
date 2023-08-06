@@ -26,11 +26,11 @@
 
 <div align="center">
   <a href="https://github.com/a-shevlin/a-shevlin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&layout=compact&hide_border=true&langs_count=4" />
+    <img align="center" src="https://readme-state-cyan.vercel.app/api/top-langs/?username=a-shevlin&hide=java,html,&theme=tokyonight&layout=compact&hide_border=true&langs_count=4" />
   </a>
   
   <a href="https://github.com/a-shevlin/a-shevlin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shevlin&theme=tokyonight&hide_border=true&show_icons=true"/>
+    <img align="center" src="https://readme-state-cyan.vercel.app/api?username=a-shevlin&theme=tokyonight&hide_border=true&show_icons=true"/>
   </a>
 </div>
 
