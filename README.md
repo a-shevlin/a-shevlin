@@ -1,11 +1,12 @@
 
 # 🪱 Hey I'm Alex!
 
-**Software Engineer**
+I am a **Software Engineer** optimizing internal tools and services
 - Currently working with
   - C#/.NET
   - Angular
-  - MS SQL
+  - MS SQL Server
+ 
 
 <div>
   <img src="https://img.shields.io/badge/-React-282f36?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282f36" />
@@ -25,7 +26,7 @@
 
 
 
-<div align="center">
+<!--- <div align="center">
   <a href="https://github.com/a-shevlin/a-shevlin">
     <img style="height: 180px" src="https://readme-state-cyan.vercel.app/api/top-langs/?username=a-shevlin&hide=html,&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
   </a>
@@ -44,5 +45,5 @@
   <img style="width: 750px" src="https://github-readme-activity-graph.vercel.app/graph?username=a-shevlin&theme=tokyo-night" />
   
   
-</div>
+</div> --->
 
