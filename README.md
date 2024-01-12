@@ -3,6 +3,9 @@
 
 I am a **Software Engineer** optimizing internal tools and services
 - Currently working with
+  - React
+  - MongoDB
+  - Express.js
   - C#/.NET
   - Angular
   - MS SQL Server
